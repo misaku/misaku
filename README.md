@@ -1,10 +1,11 @@
 ## Salve eu sou o Michel dos Santos Kuguio, desenvolvedor e amante por tecnologia!
-<img align="left" alt="misaku-pic" height="150" class="radius" style="max-width:100%; border-radius:50px !important;" src="https://raw.githubusercontent.com/misaku/misaku/main/octocat.svg">
+
 <div align="center">
   <a href="https://github.com/misaku">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misaku&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaku&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  <img align="left" alt="misaku-pic" height="150" class="radius" style="max-width:100%; border-radius:50px !important;" src="https://raw.githubusercontent.com/misaku/misaku/main/octocat.svg">
 <div style="display: inline_block"><br>
   <img align="center" alt="misaku-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="misaku-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
