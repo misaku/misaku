@@ -21,9 +21,9 @@
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-546-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-569-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,9 +33,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 69 Public Repositories 
+> 📜 70 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -94,7 +94,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2023 19:16:04 UTC
+ Last Updated on 10/05/2023 05:34:01 UTC
 <!--END_SECTION:waka-->
   
   
