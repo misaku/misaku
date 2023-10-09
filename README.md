@@ -21,7 +21,7 @@
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2023 19:10:17 UTC
+ Last Updated on 09/10/2023 19:19:26 UTC
 <!--END_SECTION:waka-->
   
   
