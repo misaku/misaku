@@ -21,7 +21,7 @@
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,15 +64,15 @@ Sunday                   571 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               16 mins             ██████████████████████░░░   89.61 % 
-HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               0 secs              ███████████████████████░░   90.20 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-WebStorm                 17 mins             █████████████████████████   100.00 % 
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +92,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 18:47:46 UTC
+ Last Updated on 30/11/2023 18:48:54 UTC
 <!--END_SECTION:waka-->
   
   
