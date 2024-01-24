@@ -21,7 +21,7 @@
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,10 +64,8 @@ Sunday                   571 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               0 secs              ██████████████████████░░░   86.49 % 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TypeScript               0 secs              ███████████████████░░░░░░   74.44 % 
+Text                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
 
 🔥 Editors: 
 WebStorm                 0 secs              █████████████████████████   100.00 % 
@@ -93,7 +91,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2024 18:41:28 UTC
+ Last Updated on 24/01/2024 18:40:42 UTC
 <!--END_SECTION:waka-->
   
   
