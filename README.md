@@ -64,17 +64,13 @@ Sunday                   571 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSV file                 2 mins              ████████████████████░░░░░   79.43 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-EJS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Webstorm                 3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +90,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 18:37:52 UTC
+ Last Updated on 16/03/2024 18:40:45 UTC
 <!--END_SECTION:waka-->
   
   
