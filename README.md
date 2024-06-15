@@ -21,8 +21,6 @@
   ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -35,42 +33,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-🌆 Daytime                1153 commits        █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌃 Evening                1131 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
-🌙 Night                  586 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   234 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Tuesday                  221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Wednesday                256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Thursday                 529 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Saturday                 752 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-Sunday                   571 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,7 +50,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:42:09 UTC
+ Last Updated on 15/06/2024 18:40:38 UTC
 <!--END_SECTION:waka-->
   
   
