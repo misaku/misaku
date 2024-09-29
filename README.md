@@ -29,8 +29,6 @@
 
 > 📦 60.1 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 72 Public Repositories 
@@ -90,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2024 18:44:09 UTC
+ Last Updated on 29/09/2024 18:44:34 UTC
 <!--END_SECTION:waka-->
   
   
