@@ -27,9 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 60.6 kB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2024
+> 📦 60.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:51:45 UTC
+ Last Updated on 11/12/2024 18:51:28 UTC
 <!--END_SECTION:waka-->
   
   
