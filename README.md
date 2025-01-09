@@ -29,50 +29,12 @@
 
 > 📦 60.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                189 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                1367 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
-🌃 Evening                1179 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
-🌙 Night                  626 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Tuesday                  236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Wednesday                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Thursday                 565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Friday                   646 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Saturday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Sunday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +52,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/misaku/misaku/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 18:47:17 UTC
+ Last Updated on 09/01/2025 18:48:50 UTC
 <!--END_SECTION:waka-->
   
   
